@@ -1,4 +1,4 @@
-# DebriSolver v2
+# Introduction
 
 Coupled electrostatic charging and orbital perturbation analysis of charged debris in low Earth orbit.
 
