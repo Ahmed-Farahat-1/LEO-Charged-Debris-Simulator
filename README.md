@@ -74,7 +74,7 @@ Figures are generated deterministically by the simulation scripts. Key outputs i
 ```bibtex
 @software{farahat2026debrisolver,
   author  = {Farahat, Ahmed S.},
-  title   = {{DebriSolver v2: Coupled Electrostatic Charging and Orbital Perturbation Framework}},
+  title   = {{Coupled Electrostatic Charging and Orbital Perturbation Framework}},
   year    = {2026},
   version = {2.0.0}
 }
